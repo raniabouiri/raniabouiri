@@ -1,4 +1,4 @@
-# Hello I'm Yahya! 👋🏽 Aspiring Software Engineer 💻
+# Hello I'm Rania! 👋🏽 Aspiring Software Engineer 💻
 
 # 🎓 Education 
 
