@@ -3,7 +3,7 @@
 # 🎓 Education 
 
 ## University of California, Berkeley
-BS, Electrical Engineering & Computer Sciences (Graduating Dec 2024)
+BA, Data Science(Graduating May 2026)
 
 ### Coursework
 * Structure & Interpertation of Computer Programs (Python, Scheme, SQL)
